@@ -92,8 +92,6 @@ distributed @ file:///C:/b/abs_52ju83vjqr/croot/distributed_1725523030746/work
 distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
 docstring-to-markdown @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/docstring-to-markdown_1699484265167/work
 docutils @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/docutils_1699474820579/work
-et-xmlfile @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/et_xmlfile_1699500373144/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-fastjsonschema_1699475134300/work
 filelock @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/filelock_1701807523603/work
 flake8 @ file:///C:/b/abs_caud66drfv/croot/flake8_1708965316778/work
@@ -103,6 +101,7 @@ frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
 frozenlist @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/frozenlist_1699557027827/work
 fsspec @ file:///C:/b/abs_02vh2bpxfo/croot/fsspec_1724855601370/work
 gensim @ file:///C:/b/abs_efsh9stgvi/croot/gensim_1725376635600/work
+git-filter-repo==2.47.0
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/b/abs_2bkslnqz4i/croot/gitpython_1720455044865/work
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
